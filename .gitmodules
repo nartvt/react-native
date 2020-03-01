@@ -1,0 +1,3 @@
+[submodule "react-native-grid-easy"]
+	path = react-native-grid-easy
+	url = git@github.com:tranvantai0011/react-native-grid-easy.git
