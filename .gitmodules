@@ -1,3 +1,6 @@
 [submodule "react-native-grid-easy"]
 	path = react-native-grid-easy
 	url = git@github.com:tranvantai0011/react-native-grid-easy.git
+[submodule "welcome_back"]
+	path = welcome_back
+	url = git@github.com:tranvantai0011/welcome_back.git
