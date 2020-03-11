@@ -7,3 +7,9 @@
 [submodule "firebaseApp"]
 	path = firebaseApp
 	url = https://github.com/tranvantai0011/firebaseApp.git
+[submodule "b5ReactClass"]
+	path = b5ReactClass
+	url = https://github.com/tranvantai0011/b5ReactClass.git
+[submodule "b6ControlListView"]
+	path = b6ControlListView
+	url = https://github.com/tranvantai0011/b6ControlListView.git
