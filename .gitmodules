@@ -4,3 +4,6 @@
 [submodule "welcome_back"]
 	path = welcome_back
 	url = git@github.com:tranvantai0011/welcome_back.git
+[submodule "firebaseApp"]
+	path = firebaseApp
+	url = https://github.com/tranvantai0011/firebaseApp.git
