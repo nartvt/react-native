@@ -13,3 +13,6 @@
 [submodule "b6ControlListView"]
 	path = b6ControlListView
 	url = https://github.com/tranvantai0011/b6ControlListView.git
+[submodule "b7navigation"]
+	path = b7navigation
+	url = https://github.com/tranvantai0011/b7navigation.git
