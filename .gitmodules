@@ -19,3 +19,6 @@
 [submodule "shoeShopCartRedux"]
 	path = shoeShopCartRedux
 	url = git@github.com:tranvantai0011/shoeShopCartRedux.git
+[submodule "enimotionChan"]
+	path = enimotionChan
+	url = git@github.com:tranvantai0011/enimotionChan.git
