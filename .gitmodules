@@ -16,3 +16,6 @@
 [submodule "b7navigation"]
 	path = b7navigation
 	url = https://github.com/tranvantai0011/b7navigation.git
+[submodule "shoeShopCartRedux"]
+	path = shoeShopCartRedux
+	url = git@github.com:tranvantai0011/shoeShopCartRedux.git
