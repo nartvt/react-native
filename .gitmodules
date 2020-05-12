@@ -22,3 +22,9 @@
 [submodule "enimotionChan"]
 	path = enimotionChan
 	url = git@github.com:tranvantai0011/enimotionChan.git
+[submodule "MovieManagerApp-"]
+	path = MovieManagerApp-
+	url = git@github.com:tranvantai0011/MovieManagerApp-.git
+[submodule "adruinoApplication"]
+	path = adruinoApplication
+	url = git@github.com:tranvantai0011/adruinoApplication.git
